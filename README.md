@@ -7,7 +7,7 @@
   <a href="https://github.com/tech-tatsuma">
     <img height="20" src="https://img.shields.io/github/followers/tech-tatsuma?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://twitter.com/yutkat">
+  <a href="http://twitter.com/tatsuma_sk_8">
     <img height="20" src="https://img.shields.io/twitter/follow/tatsuma_sk_8?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
