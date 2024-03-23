@@ -19,7 +19,6 @@
 <div align="left">
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/tech-tatsuma"/>  
 </div>
-![Metrics](https://github.com/tech-tatsuma/tech-tatsuma/blob/main/github-metrics.svg)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-tatsuma&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
