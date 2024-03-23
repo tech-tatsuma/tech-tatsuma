@@ -7,7 +7,6 @@
   <a href="https://github.com/tech-tatsuma">
     <img height="20" src="https://img.shields.io/github/followers/tech-tatsuma?label=follow&logo=github&style=flat" />
   </a>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-tatsuma)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p align="left"> 
   <a href="https://gitstar-ranking.com/tech-tatsuma">
