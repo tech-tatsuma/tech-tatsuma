@@ -40,3 +40,4 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=tech-tatsuma&theme=github)](https://activity-graph.herokuapp.com/graph?username=tech-tatsuma&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tech-tatsuma&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=tech-tatsuma&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tech-tatsuma&show_icons=true&locale=en&layout=compact)
