@@ -12,6 +12,9 @@
   <a href="http://twitter.com/tatsuma_sk_8">
     <img height="20" src="https://img.shields.io/twitter/follow/tatsuma_sk_8?label=Twitter&logo=twitter&style=flat" />
   </a>
+    <a href="furuya.tatsuma704@mail.kyutech.jp">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    </a>
 </p>
 <p align="left"> 
   <a href="https://gitstar-ranking.com/tech-tatsuma">
