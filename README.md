@@ -1,5 +1,5 @@
 <a href="https://github.com/tech-tatsuma">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tatsuma+Furuya;Researcher+%7C+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+WebApp%7C+Agent+App" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tatsuma+Furuya;Researcher+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+WebApp%7C+Agent+App" alt="Typing SVG" />
 </a>
 
 <p align="left">
@@ -14,9 +14,6 @@
     </a>
 </p>
 <p align="left"> 
-  <a href="https://gitstar-ranking.com/tech-tatsuma">
-    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
-  </a>
   <a href="https://user-badge.committers.top/japan/tech-tatsuma">
     <img height="20" src="https://user-badge.committers.top/japan/tech-tatsuma.svg" />
   </a>
