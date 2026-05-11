@@ -1,5 +1,5 @@
 <a href="https://github.com/tech-tatsuma">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tatsuma+Furuya;Researcher+%7C+M.S.+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+WebApp" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tatsuma+Furuya;Researcher+%7C+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+WebApp%7C+Agent+App" alt="Typing SVG" />
 </a>
 
 <p align="left">
@@ -9,10 +9,7 @@
   <a href="https://github.com/tech-tatsuma">
     <img height="20" src="https://img.shields.io/github/followers/tech-tatsuma?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://twitter.com/tatsuma_sk_8">
-    <img height="20" src="https://img.shields.io/twitter/follow/tatsuma_sk_8?label=Twitter&logo=twitter&style=flat" />
-  </a>
-    <a href="furuya.tatsuma704@mail.kyutech.jp">
+    <a href="tatumaskate949@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
     </a>
 </p>
